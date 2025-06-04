@@ -1,0 +1,22 @@
+## 1. Navegação no Terminal
+
+- `pwd` — Exibe o caminho do diretório atual.  
+- `ls` — Lista arquivos e pastas no diretório atual.  
+- `cd` — Muda o diretório atual.
+
+## 2. Gerenciamento de Arquivos e Diretórios
+
+- `mkdir` — Cria um diretório novo.  
+- `cp` — Copia arquivos ou diretórios.  
+- `mv` — Move ou renomeia arquivos/diretórios.  
+- `rm` — Remove arquivos ou diretórios.
+
+## 3. Permissões de Arquivos
+
+- `chmod` — Modifica permissões de arquivos e diretórios.  
+- `chown` — Muda o dono e grupo do arquivo.
+
+## 4. Processos Básicos
+
+- `ps` — Mostra os processos em execução.  
+- `kill` — Envia sinal para finalizar um processo.
