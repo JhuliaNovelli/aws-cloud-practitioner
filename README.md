@@ -1,59 +1,61 @@
-# 🚀 AWS Cloud Practitioner Essentials – Finalizado
+# ☁️ Jornada para Cloud com AWS – Jhulia Novelli
 
-Bem-vindo(a) ao meu repositório de estudos sobre computação em nuvem com foco na AWS!  
-Este material foi construído durante o curso **AWS Cloud Practitioner Essentials**, oferecido pela própria Amazon Web Services (AWS).
-
----
-
-## 📘 Sobre o Curso
-
-O curso abordou os principais conceitos de cloud computing e introduziu os serviços fundamentais da AWS, com foco em:
-
-- 🧠 Fundamentos de computação em nuvem
-- 🔐 Segurança e modelo de responsabilidade compartilhada
-- 💰 Preços, suporte e modelos de cobrança
-- 🧩 Arquitetura global da AWS
+Olá! Meu nome é **Jhulia Novelli** e este repositório documenta minha transição de carreira para a área de **Cloud Computing com foco em AWS**. Com experiência prévia na área de tecnologia, estou expandindo meus conhecimentos para atuar com soluções em nuvem, buscando oportunidades tanto no Brasil quanto no exterior.
 
 ---
 
-## 🛠️ Serviços Estudados
+## 🎯 Objetivo
 
-Durante o curso, explorei os seguintes serviços:
-
-| Serviço | Descrição |
-|--------|-----------|
-| EC2    | Instâncias de computação escaláveis na nuvem |
-| S3     | Armazenamento de objetos durável e seguro     |
-| IAM    | Gerenciamento de identidades e permissões     |
-| RDS    | Banco de dados relacional gerenciado          |
-| CloudFront | Rede de distribuição de conteúdo (CDN)   |
-| Lambda | Execução de código sem provisionar servidores |
+Desenvolver habilidades sólidas em:
+- AWS (foco inicial: Cloud Practitioner e serviços principais como EC2, S3, IAM)
+- Linux (como base essencial para ambientes em nuvem)
+- Ferramentas de automação, CLI, scripts e boas práticas DevOps
 
 ---
 
-## 🎯 Meus Próximos Passos
+## 📁 Estrutura do Repositório
 
-- 💡 Aprofundar estudos para obter a **certificação AWS Cloud Practitioner**
-- ☁️ Criar projetos práticos com serviços como EC2, S3, IAM e Lambda
-- 🧪 Realizar laboratórios e simulações de ambientes em nuvem
-- 🌍 Me preparar para atuar com Cloud em ambientes profissionais e internacionais
-
----
-
-## 📄 Certificado do Curso
-
-📌 *Curso concluído no AWS Skill Builder em Junho de 2025.*  
-![image](https://github.com/user-attachments/assets/61bba0a1-c379-4ae1-9bfe-10cbb9159c85)
+```bash
+aws-cloud-practitioner/
+├── linux/                 # Comandos, scripts e resumos do curso na Alura
+├── aws/                   # Anotações e materiais do curso da AWS
+├── projetos/              # Projetos práticos unindo AWS + Linux
+└── README.md              # Este arquivo: visão geral da jornada
 
 
----
 
-## 🤝 Conecte-se comigo
+📚 Cursos Concluídos
+✅ AWS
+ AWS Cloud Practitioner Essentials – AWS
 
-💼 LinkedIn: [linkedin.com/in/jhulia-novelli-2a817259](https://www.linkedin.com/in/jhulia-novelli)  
-💻 GitHub: [github.com/jhulianovelli](https://github.com/jhulianovelli)
+✅ Linux (Alura – Formação Começando em Linux)
+ Gerenciando diretórios, arquivos, permissões e processos
 
----
+🧰 Tecnologias e Ferramentas
+AWS (EC2, S3, IAM, CLI)
 
-⭐ *Sinta-se à vontade para acompanhar minha jornada de transição para Cloud. Em breve, mais conteúdos práticos e projetos!*  
+Linux (Ubuntu, linha de comando, permissões, processos)
+
+Git/GitHub
+
+Shell Script (básico)
+
+
+🤝 Conecte-se comigo!
+Estou sempre aberta a trocar experiências e fazer networking com quem também está na área de Cloud e TI.
+Se quiser bater um papo sobre a jornada para a nuvem, me chama no LinkedIn! 🚀
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
